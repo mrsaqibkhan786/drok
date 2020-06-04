@@ -89,22 +89,22 @@ print  """
 jalan("\033[1;97m•◈•───────•◈ NOT A NAME ITS BRAND •◈•───────•◈•")  
 
 
-jalan("\033[1;96m•◈•   _____ _____  ______ ______ _____ _____ ")
-jalan("\033[1;96m•◈•  / ____|  __ \|  ____|  ____|  __ \_   _|")
-jalan("\033[1;97m•◈• | (___ | |__) | |__  | |__  | |  | || |  ")
-jalan("\033[1;96m•◈•  \___ \|  ___/|  __| |  __| | |  | || |  ")
-jalan("\033[1;96m•◈•  ____) | |    | |____| |____| |__| || |_ ")
-jalan("\033[1;96m•◈• |_____/|_|    |______|______|_____/_____|")
+jalan("\033[1;96m•◈•   __________ ______________________
+jalan("\033[1;96m•◈•  __________
+jalan("\033[1;97m•◈• _____________
+jalan("\033[1;96m•◈•  _____________________
+jalan("\033[1;96m•◈•  _________________
+jalan("\033[1;96m•◈• __________
  
 jalan("   \033[1;91m INDAIN USERZ USE ANY PROXY ")	
 jalan("   \033[1;91m WIFI USERZ USE ANY PROXY ")	
 
-jalan("   \033[1;93m Welcome to Aahil Creations ")
+jalan("   \033[1;93m Welcome to Saqib Creations ")
 
-jalan("\033[1;97m•◈•──────────•◈•\033[1;96mBlacktiger\033[1;96m•◈•──────────•◈•")
+jalan("\033[1;97m•◈•──────────•◈•\033[1;96mSaqibkhan\033[1;96m•◈•──────────•◈•")
 
-CorrectUsername = "rana"
-CorrectPassword = "rana"
+CorrectUsername = "saqib"
+CorrectPassword = "saqib"
 
 
 loop = 'true'
@@ -117,10 +117,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Wrong Password"
-            os.system('xdg-open https://www.Youtube.com/UCsdJQbRf0xpvwaDu1rqgJuA')
+            os.system('xdg-open https://www.Youtube.com/UCsdJQbRf0fjvwaDu1rqgJuA')
     else:
         print "Wrong Username"
-        os.system('xdg-open https://www.Youtube.com/UCsdJQbRf0xpvwaDu1rqgJuA')
+        os.system('xdg-open https://www.Youtube.com/UCsdJQbRf0xpxhaDu1rqgJuA')
 
 def login():
 	os.system('clear')
@@ -217,7 +217,7 @@ def menu():
 	print "   \033[1;36;40m      ║\033[1;34;40m[*] Subs\033[1;34;40m: "+sub+"                      \033[1;36;40m║"
 	print "   \033[1;36;40m      ╚═════════════════════════════════╝"
 	print "\033[1;32;40m[1] \033[1;33;40m══Start Hack3ing"	
-	print "\033[1;32;40m[2] \033[1;33;40m══Update Aahil"																														
+	print "\033[1;32;40m[2] \033[1;33;40m══Update Saqib"																														
 	print "\033[1;32;40m[0] \033[1;33;40m══Log out"
 	pilih()
 
@@ -324,7 +324,7 @@ def pilih_super():
 	print "\n\033[1;97m        ❈     \033[1;97mTo Stop Process Press CTRL+Z \033[1;97m    ❈"
 	print "   \033[1;31;48m●💋══════════════════◄►══════════════════💋●"
 
-	jalan('                    \033[1;97mAahil start cloning Wait...')
+	jalan('                    \033[1;97mSaqib start cloning Wait...')
 	print  "  \033[1;36;48m ●💋══════════════════◄►══════════════════💋●" 
 
 	def main(arg):
